@@ -4,4 +4,5 @@ Recriei interface da Netflix utilizando HTML, CSS e JavaScript Neste projeto bus
 
 
 
-![projeto netflix gif](https://user-images.githubusercontent.com/103465532/166807640-ba1e2cab-58f3-4edd-9301-4a5bbc993619.gif)
+
+![ezgif-2-c057d91028](https://user-images.githubusercontent.com/103465532/168828885-f3e058bc-4835-4bc9-91aa-11b58b33c4ea.gif)
